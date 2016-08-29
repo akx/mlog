@@ -1,0 +1,25 @@
+{
+  "name": "mlog",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --inline"
+  },
+  "author": "Aarni Koskela",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.3",
+    "buble": "^0.13.1",
+    "buble-loader": "^0.2.2",
+    "css-loader": "^0.24.0",
+    "mithril": "^0.2.5",
+    "ramda": "^0.22.1",
+    "style-loader": "^0.13.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.3.1",
+    "webpack": "^1.13.2",
+    "whatwg-fetch": "^1.0.0",
+    "webpack-dev-server": "^1.15.0"
+  }
+}
